@@ -1,2 +1,2 @@
-# Embedded Systems Diploma
+# Mastering Embedded Systems
 ##Marina Safwat
