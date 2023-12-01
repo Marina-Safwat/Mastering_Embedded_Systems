@@ -60,9 +60,9 @@ Linker script and memory map
  *(COMMON)
                 0x00011140                . = (. + 0x1000)
                 0x00011140                stack_top = .
-LOAD startup.o
 LOAD app.o
 LOAD uart.o
+LOAD startup.o
 OUTPUT(lab1.elf elf32-littlearm)
 
 .ARM.attributes
@@ -78,3 +78,40 @@ OUTPUT(lab1.elf elf32-littlearm)
  .comment       0x00000000       0x11 app.o
                                  0x12 (size before relaxing)
  .comment       0x00000000       0x12 uart.o
+
+.debug_line     0x00000000      0x119
+ .debug_line    0x00000000       0x3a startup.o
+ .debug_line    0x0000003a       0x49 app.o
+ .debug_line    0x00000083       0x96 uart.o
+
+.debug_info     0x00000000      0x229
+ .debug_info    0x00000000       0x74 startup.o
+ .debug_info    0x00000074       0xdb app.o
+ .debug_info    0x0000014f       0xda uart.o
+
+.debug_abbrev   0x00000000       0xfd
+ .debug_abbrev  0x00000000       0x14 startup.o
+ .debug_abbrev  0x00000014       0x79 app.o
+ .debug_abbrev  0x0000008d       0x70 uart.o
+
+.debug_aranges  0x00000000       0x60
+ .debug_aranges
+                0x00000000       0x20 startup.o
+ .debug_aranges
+                0x00000020       0x20 app.o
+ .debug_aranges
+                0x00000040       0x20 uart.o
+
+.debug_loc      0x00000000       0x58
+ .debug_loc     0x00000000       0x2c app.o
+ .debug_loc     0x0000002c       0x2c uart.o
+
+.debug_str      0x00000000      0x106
+ .debug_str     0x00000000       0xd4 app.o
+                                0x108 (size before relaxing)
+ .debug_str     0x000000d4       0x32 uart.o
+                                0x11e (size before relaxing)
+
+.debug_frame    0x00000000       0x54
+ .debug_frame   0x00000000       0x2c app.o
+ .debug_frame   0x0000002c       0x28 uart.o
