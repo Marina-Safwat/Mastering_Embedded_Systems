@@ -1,0 +1,1864 @@
+US_init
+DC_init
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 48
+US ---------Distance = 48---------> CA
+Waiting State : distance = 48 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 54
+US ---------Distance = 54---------> CA
+Driving State : distance = 54 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 46
+US ---------Distance = 46---------> CA
+Waiting State : distance = 46 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 55
+US ---------Distance = 55---------> CA
+Driving State : distance = 55 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 45
+US ---------Distance = 45---------> CA
+Waiting State : distance = 45 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 47
+US ---------Distance = 47---------> CA
+Waiting State : distance = 47 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 51
+US ---------Distance = 51---------> CA
+Driving State : distance = 51 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 50
+US ---------Distance = 50---------> CA
+Waiting State : distance = 50 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 49
+US ---------Distance = 49---------> CA
+Waiting State : distance = 49 speed = 0
+CA ----------speed = 0----------> DC
+Busy State : speed = 0
+US Reading State sent distance = 52
+US ---------Distance = 52---------> CA
+Driving State : distance = 52 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 53
+US ---------Distance = 53---------> CA
+Driving State : distance = 53 speed = 30
+CA ----------speed = 30----------> DC
+Busy State : speed = 30
+US Reading State sent distance = 49
+US ---------Dista
