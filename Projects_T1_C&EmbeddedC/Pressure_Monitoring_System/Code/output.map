@@ -1,0 +1,257 @@
+
+Allocating common symbols
+Common symbol       size              file
+
+P_A_State           0x4               Alarm.o
+P_PS_State          0x4               Pressure_Sensor.o
+P_AM_State          0x4               Alarm_Monitor.o
+AM_State_ID         0x1               Alarm_Monitor.o
+P_PM_State          0x4               Pressure_Monitor.o
+PM_State_ID         0x1               main.o
+A_State_ID          0x1               Alarm.o
+PS_State_ID         0x1               main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00020000         xr
+sram             0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x08000000      0x4c4
+ *(.vectors*)
+ .vectors       0x08000000       0x1c startup.o
+                0x08000000                vectors
+ *(.text*)
+ .text          0x0800001c      0x11c Alarm.o
+                0x0800001c                StartAlarm
+                0x08000038                StopAlarm
+                0x08000054                ST_A_INIT
+                0x08000098                ST_A_WAITING
+                0x080000b0                ST_A_ON
+                0x080000f4                ST_A_OFF
+ .text          0x08000138       0x70 Alarm_Monitor.o
+                0x08000138                HighPressureDetected
+                0x08000154                ST_AM_OFF
+                0x0800016c                ST_AM_ON
+ .text          0x080001a8       0x24 Delay.o
+                0x080001a8                Delay
+ .text          0x080001cc       0x80 GPIO.o
+                0x080001cc                GPIO_INITIALIZATION
+ .text          0x0800024c       0x70 main.o
+                0x0800024c                setup
+                0x08000280                main
+ .text          0x080002bc       0x88 Pressure_Monitor.o
+                0x080002bc                setPressure
+                0x080002ec                ST_PM_CHECK
+ .text          0x08000344       0xc4 Pressure_Sensor.o
+                0x08000344                ST_PS_INIT
+                0x08000370                ST_PS_READING
+                0x080003b8                ST_PS_WAITING
+                0x080003f0                getPressureVal
+ .text          0x08000408       0xbc startup.o
+                0x08000408                Reset_Handler
+                0x080004b8                MM_fault_Handler
+                0x080004b8                Usage_fault_Handler
+                0x080004b8                Bus_fault_Handler
+                0x080004b8                H_fault_Handler
+                0x080004b8                Default_handler
+                0x080004b8                NMI_Handler
+ *(.rodata)
+                0x080004c4                _E_text = .
+
+.glue_7         0x080004c4        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x080004c4        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x080004c4        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080004c4        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080004c4        0x0
+ .iplt          0x00000000        0x0 Alarm.o
+
+.rel.dyn        0x080004c4        0x0
+ .rel.iplt      0x00000000        0x0 Alarm.o
+
+.data           0x20000000        0xc load address 0x080004c4
+                0x20000000                _S_data = .
+ *(.data*)
+ .data          0x20000000        0x0 Alarm.o
+ .data          0x20000000        0x4 Alarm_Monitor.o
+                0x20000000                AlarmTimer
+ .data          0x20000004        0x0 Delay.o
+ .data          0x20000004        0x0 GPIO.o
+ .data          0x20000004        0x0 main.o
+ .data          0x20000004        0x4 Pressure_Monitor.o
+                0x20000004                Threshold
+ .data          0x20000008        0x4 Pressure_Sensor.o
+                0x20000008                PressureSensorTimer
+ .data          0x2000000c        0x0 startup.o
+                0x2000000c                _E_data = .
+
+.igot.plt       0x2000000c        0x0 load address 0x080004d0
+ .igot.plt      0x00000000        0x0 Alarm.o
+
+.debug          0x00000000     0x1db8
+ *(.debug*)
+ .debug_info    0x00000000      0x163 Alarm.o
+ .debug_abbrev  0x00000163       0x9f Alarm.o
+ .debug_loc     0x00000202      0x108 Alarm.o
+ .debug_aranges
+                0x0000030a       0x20 Alarm.o
+ .debug_line    0x0000032a       0x9f Alarm.o
+ .debug_str     0x000003c9      0x141 Alarm.o
+                                0x17a (size before relaxing)
+ *fill*         0x0000050a        0x2 
+ .debug_frame   0x0000050c       0xa4 Alarm.o
+ .debug_info    0x000005b0      0x12a Alarm_Monitor.o
+ .debug_abbrev  0x000006da       0x9f Alarm_Monitor.o
+ .debug_loc     0x00000779       0x84 Alarm_Monitor.o
+ .debug_aranges
+                0x000007fd       0x20 Alarm_Monitor.o
+ .debug_line    0x0000081d       0x72 Alarm_Monitor.o
+ .debug_str     0x0000088f       0x6e Alarm_Monitor.o
+                                0x169 (size before relaxing)
+ *fill*         0x000008fd        0x3 
+ .debug_frame   0x00000900       0x60 Alarm_Monitor.o
+ .debug_info    0x00000960       0xaa Delay.o
+ .debug_abbrev  0x00000a0a       0x5e Delay.o
+ .debug_loc     0x00000a68       0x38 Delay.o
+ .debug_aranges
+                0x00000aa0       0x20 Delay.o
+ .debug_line    0x00000ac0       0x59 Delay.o
+ .debug_str     0x00000b19       0x15 Delay.o
+                                0x109 (size before relaxing)
+ *fill*         0x00000b2e        0x2 
+ .debug_frame   0x00000b30       0x2c Delay.o
+ .debug_info    0x00000b5c       0xa8 GPIO.o
+ .debug_abbrev  0x00000c04       0x4d GPIO.o
+ .debug_loc     0x00000c51       0x2c GPIO.o
+ .debug_aranges
+                0x00000c7d       0x20 GPIO.o
+ .debug_line    0x00000c9d       0x81 GPIO.o
+ .debug_str     0x00000d1e       0x1b GPIO.o
+                                0x11f (size before relaxing)
+ *fill*         0x00000d39        0x3 
+ .debug_frame   0x00000d3c       0x28 GPIO.o
+ .debug_info    0x00000d64      0x19f main.o
+ .debug_abbrev  0x00000f03       0xa5 main.o
+ .debug_loc     0x00000fa8       0x58 main.o
+ .debug_aranges
+                0x00001000       0x20 main.o
+ .debug_line    0x00001020       0x9f main.o
+ .debug_str     0x000010bf       0x6a main.o
+                                0x1ba (size before relaxing)
+ *fill*         0x00001129        0x3 
+ .debug_frame   0x0000112c       0x48 main.o
+ .debug_info    0x00001174      0x135 Pressure_Monitor.o
+ .debug_abbrev  0x000012a9       0xb2 Pressure_Monitor.o
+ .debug_loc     0x0000135b       0x64 Pressure_Monitor.o
+ .debug_aranges
+                0x000013bf       0x20 Pressure_Monitor.o
+ .debug_line    0x000013df       0x76 Pressure_Monitor.o
+ .debug_str     0x00001455       0x41 Pressure_Monitor.o
+                                0x16f (size before relaxing)
+ *fill*         0x00001496        0x2 
+ .debug_frame   0x00001498       0x48 Pressure_Monitor.o
+ .debug_info    0x000014e0      0x17a Pressure_Sensor.o
+ .debug_abbrev  0x0000165a       0xca Pressure_Sensor.o
+ .debug_loc     0x00001724       0xb0 Pressure_Sensor.o
+ .debug_aranges
+                0x000017d4       0x20 Pressure_Sensor.o
+ .debug_line    0x000017f4       0xc1 Pressure_Sensor.o
+ .debug_str     0x000018b5       0x5c Pressure_Sensor.o
+                                0x1ab (size before relaxing)
+ *fill*         0x00001911        0x3 
+ .debug_frame   0x00001914       0x7c Pressure_Sensor.o
+ .debug_info    0x00001990      0x168 startup.o
+ .debug_abbrev  0x00001af8       0xc2 startup.o
+ .debug_loc     0x00001bba       0x64 startup.o
+ .debug_aranges
+                0x00001c1e       0x20 startup.o
+ .debug_line    0x00001c3e       0xac startup.o
+ .debug_str     0x00001cea       0x80 startup.o
+                                0x172 (size before relaxing)
+ *fill*         0x00001d6a        0x2 
+ .debug_frame   0x00001d6c       0x4c startup.o
+
+.comment        0x00000000       0x11
+ .comment       0x00000000       0x11 Alarm.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 Alarm_Monitor.o
+ .comment       0x00000000       0x12 Delay.o
+ .comment       0x00000000       0x12 GPIO.o
+ .comment       0x00000000       0x12 main.o
+ .comment       0x00000000       0x12 Pressure_Monitor.o
+ .comment       0x00000000       0x12 Pressure_Sensor.o
+ .comment       0x00000000       0x12 startup.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 Alarm.o
+ .ARM.attributes
+                0x00000033       0x33 Alarm_Monitor.o
+ .ARM.attributes
+                0x00000066       0x33 Delay.o
+ .ARM.attributes
+                0x00000099       0x33 GPIO.o
+ .ARM.attributes
+                0x000000cc       0x33 main.o
+ .ARM.attributes
+                0x000000ff       0x33 Pressure_Monitor.o
+ .ARM.attributes
+                0x00000132       0x33 Pressure_Sensor.o
+ .ARM.attributes
+                0x00000165       0x33 startup.o
+
+.bss            0x2000000c     0x1020
+                0x2000000c                _S_bss = .
+ *(.bss.*)
+                0x2000000c                . = ALIGN (0x4)
+                0x2000000c                _E_bss = .
+                0x2000100c                . = (. + 0x1000)
+ *fill*         0x2000000c     0x1000 
+                0x2000100c                _stack_top = .
+ .bss           0x2000100c        0x0 Alarm.o
+ COMMON         0x2000100c        0x5 Alarm.o
+                0x2000100c                P_A_State
+                0x20001010                A_State_ID
+ .bss           0x20001011        0x0 Alarm_Monitor.o
+ *fill*         0x20001011        0x3 
+ COMMON         0x20001014        0x5 Alarm_Monitor.o
+                0x20001014                P_AM_State
+                0x20001018                AM_State_ID
+ .bss           0x20001019        0x0 Delay.o
+ .bss           0x20001019        0x0 GPIO.o
+ .bss           0x20001019        0x0 main.o
+ COMMON         0x20001019        0x2 main.o
+                0x20001019                PM_State_ID
+                0x2000101a                PS_State_ID
+ *fill*         0x2000101b        0x1 
+ .bss           0x2000101c        0x4 Pressure_Monitor.o
+                0x2000101c                PM_Pressure
+ COMMON         0x20001020        0x4 Pressure_Monitor.o
+                0x20001020                P_PM_State
+ .bss           0x20001024        0x4 Pressure_Sensor.o
+                0x20001024                Pressure
+ COMMON         0x20001028        0x4 Pressure_Sensor.o
+                0x20001028                P_PS_State
+ .bss           0x2000102c        0x0 startup.o
+LOAD Alarm.o
+LOAD Alarm_Monitor.o
+LOAD Delay.o
+LOAD GPIO.o
+LOAD main.o
+LOAD Pressure_Monitor.o
+LOAD Pressure_Sensor.o
+LOAD startup.o
+OUTPUT(PressureMonitoringSystem.elf elf32-littlearm)
