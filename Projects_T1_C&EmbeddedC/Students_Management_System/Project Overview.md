@@ -7,7 +7,7 @@
 
 **Author:**  Marina Safwat
 
-**My Profile**: [LearnInDepth]((https://www.learn-in-depth-store.com/account/blank-4))
+**My Profile**: [LearnInDepth](https://www.learn-in-depth-store.com/account/blank-4)
 
 ## Introduction
 
